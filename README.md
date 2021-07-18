@@ -1,2 +1,2 @@
 # DR1
-Net5
+Net5 sample repository
